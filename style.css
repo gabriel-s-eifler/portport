@@ -22,7 +22,7 @@ a{
     justify-content: center;
 }
 #avatar{
-    background-image: url(/src/afegagecei.png) ;
+    background-image: url(https://github.com/gabriel-s-eifler/portport/blob/main/src/afegagecei.png) ;
     background-size: cover;
     background-position: center;
     border-radius: 50%;
@@ -87,7 +87,7 @@ ul li a:hover{
     background: linear-gradient(30deg, rgba(104, 37, 124, 0.932) 0%, rgba(202, 26, 82, 0.932) 100%)
 }
 #avatar:hover{
-    background-image: url(/src/role.jpg) ;
+    background-image: url(https://github.com/gabriel-s-eifler/portport/blob/main/src/role.jpg) ;
     background-size: cover;
     background-position: center;
     border-radius: 50%;
